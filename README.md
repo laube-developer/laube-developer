@@ -5,9 +5,9 @@ Seja bem vindo ao meu github. Aqui eu compartilho um pouco do meu conhecimento e
 Ficou interessado nos meus projetos? Aqui estão alguns deles:  
 | Projeto | Execução |  
 |-----|----|  
-| [Image Flow](https://github.com/laube-developer/image-flow) |![]([https://geps.dev/progress/60](https://geps.dev/progress/60)) |  
-| [Chat App](https://github.com/laube-developer/chat-app) | ![]([https://geps.dev/progress/73](https://geps.dev/progress/73)) |  
-| [Processo Seletivo Programathor](https://github.com/laube-developer/infoideias-selecao) | ![]([https://geps.dev/progress/100](https://geps.dev/progress/100)) |  
+| [Image Flow](https://github.com/laube-developer/image-flow) |![](https://geps.dev/progress/60) |  
+| [Chat App](https://github.com/laube-developer/chat-app) | ![](https://geps.dev/progress/73) |  
+| [Processo Seletivo Programathor](https://github.com/laube-developer/infoideias-selecao) | ![](https://geps.dev/progress/100) |  
   
 # Stack  
 Desenvolvo utilizando as seguintes tecnologias
