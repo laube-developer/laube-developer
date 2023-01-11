@@ -11,7 +11,7 @@ Ficou interessado nos meus projetos? Aqui estão alguns deles:
   
 # Stack  
 Desenvolvo utilizando as seguintes tecnologias
-![](https://github.com/laube-developer/laube-developer/Techs.png)
+![](https://github.com/laube-developer/laube-developer/blob/main/Techs.png)
 
 <!--
 **laube-developer/laube-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
