@@ -8,9 +8,9 @@ Possuo um canal no Youtube, onde compatilho um pouco do meu aprendizado: [youtub
 ## 🔭 Atualmente estou trabalhando
 | Projeto | Execução |
 |-----|----|
-| [Image Flow](https://github.com/laube-developer/image-flow) |![]([https://geps.dev/progress/60](https://geps.dev/progress/60)) |
-| [Chat App](https://github.com/laube-developer/chat-app) | ![]([https://geps.dev/progress/73](https://geps.dev/progress/73)) |
-| [Processo Seletivo Programathor](https://github.com/laube-developer/infoideias-selecao) | ![]([https://geps.dev/progress/100](https://geps.dev/progress/100)) |
+| [Image Flow](https://github.com/laube-developer/image-flow) | ![](https://geps.dev/progress/60) |
+| [Chat App](https://github.com/laube-developer/chat-app) | ![](https://geps.dev/progress/73) |
+| [Processo Seletivo Programathor](https://github.com/laube-developer/infoideias-selecao) | ![](https://geps.dev/progress/100) |
 ## 🔨 Stack (Tecnologias utilizadas)
 ![](https://github.com/laube-developer/laube-developer/blob/main/Techs.png)
 
