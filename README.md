@@ -1,30 +1,31 @@
-# 👋 Seja Bem Vinda(o)
-Seja bem vinda(o) ao meu github. Aqui eu compartilho um pouco do meu conhecimento e apresento os meus projetos com o intúito de ajudar quem está iniciando na programação.
+# 👋 Rafael Laube
+<img src="/self.png" alt="Rafael Laube"/>
+<br>
+<img src="/rafael.png" alt="Rafael Laube" height="40"/>
+<img src="/software.png" alt="Rafael Laube" height="40"/>
+<br>
+<img src="/next.png" alt="Rafael Laube" height="27"/>
+<img src="/laravel.png" alt="Rafael Laube" height="27"/>
+<img src="/supabase.png" alt="Rafael Laube" height="27"/>
+<img src="/postgres.png" alt="Rafael Laube" height="27"/>
+<br>
+<a href="https://linkedin.com/in/rafaellaube">
+   <img src="/linkedin.png" alt="Rafael Laube" height="25"/>
+</a>
+<a href="https://youtube.com/@rafaellaube">
+   <img src="/youtube.png" alt="Rafael Laube" height="25"/>
+</a>
 
-Para quem não me conhece sou __``Rafael Laube``__, estudante de __Engenharia de Software__ na Universidade de Brasília.
+## 🔭 Projetos
+| Projeto |  |  |
+|-----|----|-----|
+| [Carrinho Transportador de objetos](https://github.com/laube-developer/PI1/) | <img src="https://github.com/laube-developer/PI1/blob/main/banner.png?raw=true" alt="Rafael Laube" width="400" style="border-radius: 10px;"/> |![](https://geps.dev/progress/60) |
+| [Ride Drive](https://github.com/laube-developer/ride-share-project) | <img src="https://github.com/laube-developer/ride-share-project/blob/main/banner.png?raw=true" alt="Rafael Laube" height="300" style="border-radius: 10px;"/> |![](https://geps.dev/progress/0) |
+| [Banco de Imagens (Drive)](https://github.com/laube-developer/image-flow) | <img src="https://github.com/laube-developer/image-flow/blob/main/example_images/4_Home.png?raw=true" alt="Rafael Laube" width="400" style="border-radius: 10px;"/> |![](https://geps.dev/progress/60) |
+| [Chat App](https://github.com/laube-developer/chat-app)| <img src="https://raw.githubusercontent.com/laube-developer/chat-app/main/img/Tela%20de%20Cadastro.png" alt="Rafael Laube" width="400" style="border-radius: 10px;"/> |![](https://geps.dev/progress/73) |
+| [Landing Page](https://github.com/laube-developer/infoideias-selecao) | <img src="https://github.com/laube-developer/infoideias-selecao/raw/main/BANNER/Capa%201280x860.png" alt="Rafael Laube" width="400" style="border-radius: 10px;"/> | ![](https://geps.dev/progress/100) |
 
-Possuo um canal no Youtube, onde compatilho um pouco do meu aprendizado: [youtube.com/@rafaellaube](https://www.youtube.com/@rafaellaube)
 
-## 🔭 Atualmente estou trabalhando
-| Projeto | Execução |
-|-----|----|
-| [Image Flow](https://github.com/laube-developer/image-flow) | ![](https://geps.dev/progress/60) |
-| [Chat App](https://github.com/laube-developer/chat-app) | ![](https://geps.dev/progress/73) |
-| [Processo Seletivo Programathor](https://github.com/laube-developer/infoideias-selecao) | ![](https://geps.dev/progress/100) |
-## 🔨 Stack (Tecnologias utilizadas)
-![](https://github.com/laube-developer/laube-developer/blob/main/Techs.png)
-
-  
-
-| Tecnologia | Descrição |
-|-|-|
-| [Next.js](https://nextjs.org/) | Framework React.js para SSG e SSR |
-|[React.js](https://pt-br.reactjs.org/)|Framework JavaScript para desenvolvimento Front-End
-|[Node.js](https://nodejs.org/en/)|Ambiente de desenvolvimento JavaScript
-|[Firebase](https://firebase.google.com/)|Switch de ferramentas para criar aplicativos|
-|[MongoDB](https://www.mongodb.com/)|Banco de dados não relacional
-
-  
 
 ## 📫 Contato
 
@@ -32,19 +33,8 @@ Possuo um canal no Youtube, onde compatilho um pouco do meu aprendizado: [youtub
 |-|-|
 |🙍| [linkedin.com/in/rafaellaube](https://linkedin.com/in/rafaellaube)| 
 
-## 🪟 Portifólio
-
-### 🔹 [Chat App](https://github.com/laube-developer/chat-app)
-![Chat App](https://raw.githubusercontent.com/laube-developer/chat-app/main/img/Tela%20de%20Cadastro.png)
-
-### 🔹 [Image Flow](https://github.com/laube-developer/image-flow)
-![Image Flow](https://github.com/laube-developer/image-flow/blob/main/example_images/4_Home.png?raw=true)
-### 🔹 [Processo Seleção Programathor](https://github.com/laube-developer/infoideias-selecao)
-![Image Flow](https://github.com/laube-developer/infoideias-selecao/raw/main/BANNER/Capa%201280x860.png?raw=true)
-
-
 ## ✅ Curiosidades
- 1. Sou militar da Aeronáutica e trabalhei no Centro de Comunicação Social da Aeronáutica, desenvolvendo projetos no campo da __Produção Audiovisual__. Aqui vai alguns dos vídeos em que trabalhei:
+ 1. Fui militar da Aeronáutica e trabalhei no Centro de Comunicação Social da Aeronáutica, desenvolvendo projetos no campo da __Produção Audiovisual__. Aqui vai alguns dos vídeos em que trabalhei:
     - [Dia da Infantaria da Aeronáutica](https://www.youtube.com/watch?v=uxmR4Um1L4Y)
     - [Dia da Aviação de Busca e Salvamento](https://www.youtube.com/watch?v=daedPjDf1j0)
     - [Dia da Aviação de Patrulha](https://www.youtube.com/watch?v=Qxe0cBZsd44)
