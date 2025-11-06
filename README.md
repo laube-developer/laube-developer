@@ -1,13 +1,11 @@
 # 👋 Rafael Laube
 <img src="/self.png" alt="Rafael Laube"/>
 <br>
-<img src="/rafael.png" alt="Rafael Laube" height="40"/>
-<img src="/software.png" alt="Rafael Laube" height="40"/>
+<img src="/rafael.png" alt="Software Engineering Student" height="40"/>
 <br>
-<img src="/next.png" alt="Rafael Laube" height="27"/>
-<img src="/laravel.png" alt="Rafael Laube" height="27"/>
-<img src="/supabase.png" alt="Rafael Laube" height="27"/>
-<img src="/postgres.png" alt="Rafael Laube" height="27"/>
+<img src="/techs.png" alt="Habilidades 1" height="27"/>
+<br>
+<img src="/techs2.png" alt="Habilidades 2" height="27"/>
 <br>
 <a href="https://linkedin.com/in/rafaellaube">
    <img src="/linkedin.png" alt="Rafael Laube" height="25"/>
@@ -16,52 +14,92 @@
    <img src="/youtube.png" alt="Rafael Laube" height="25"/>
 </a>
 
-## 🔭 Projetos
-| Projeto |  |  |
-|-----|----|-----|
-| [Carrinho Transportador de objetos](https://github.com/laube-developer/PI1/) | <img src="https://github.com/laube-developer/PI1/blob/main/banner.png?raw=true" alt="Rafael Laube" width="400" style="border-radius: 10px;"/> |![](https://geps.dev/progress/60) |
-| [Ride Drive](https://github.com/laube-developer/ride-share-project) | <img src="https://github.com/laube-developer/ride-share-project/blob/main/banner.png?raw=true" alt="Rafael Laube" height="300" style="border-radius: 10px;"/> |![](https://geps.dev/progress/0) |
-| [Banco de Imagens (Drive)](https://github.com/laube-developer/image-flow) | <img src="https://github.com/laube-developer/image-flow/blob/main/example_images/4_Home.png?raw=true" alt="Rafael Laube" width="400" style="border-radius: 10px;"/> |![](https://geps.dev/progress/60) |
-| [Chat App](https://github.com/laube-developer/chat-app)| <img src="https://raw.githubusercontent.com/laube-developer/chat-app/main/img/Tela%20de%20Cadastro.png" alt="Rafael Laube" width="400" style="border-radius: 10px;"/> |![](https://geps.dev/progress/73) |
-| [Landing Page](https://github.com/laube-developer/infoideias-selecao) | <img src="https://github.com/laube-developer/infoideias-selecao/raw/main/BANNER/Capa%201280x860.png" alt="Rafael Laube" width="400" style="border-radius: 10px;"/> | ![](https://geps.dev/progress/100) |
-
-
-
 ## 📫 Contato
+
 
 | ✉️ | [laube.developer@gmail.com](mailto:laube.developer@gmail.com?subject=Contato&body=Gostaria%20de%20saber%20sobre%20mais%20novidades%20dos%20seus%20projetos)|
 |-|-|
 |🙍| [linkedin.com/in/rafaellaube](https://linkedin.com/in/rafaellaube)| 
 
-## ✅ Curiosidades
- 1. Fui militar da Aeronáutica e trabalhei no Centro de Comunicação Social da Aeronáutica, desenvolvendo projetos no campo da __Produção Audiovisual__. Aqui vai alguns dos vídeos em que trabalhei:
-    - [Dia da Infantaria da Aeronáutica](https://www.youtube.com/watch?v=uxmR4Um1L4Y)
-    - [Dia da Aviação de Busca e Salvamento](https://www.youtube.com/watch?v=daedPjDf1j0)
-    - [Dia da Aviação de Patrulha](https://www.youtube.com/watch?v=Qxe0cBZsd44)
 
- 2. Gosto de me exercitar e o __vôlei__ é meu esporte favorito
+## 🔭 Projetos
 
- 3. Sempre gostei de desenhar. Acredito que isso facilita bastante o desenvolvimento de designs criativos.
+### 🤖 Robô autônomo para entregas `2025`
+<img src="https://github.com/laube-developer/PI1/blob/main/banner.png?raw=true" alt="Robô autônomo para entregas" width="400" style="border-radius: 10px;"/>
 
- 4. Adoro MATEMÁTICA
-<!--
+- Andamento ![](https://geps.dev/progress/60)
+- Interface com `Next.js`
+- Microcontrolador `ESP32`
+- Motores, encoders e giroscópio
+- Controle PWM
+- [github.com/laube-developer/PI1](https://www.github.com/laube-developer/PI1)
+
+---
+
+### 🚗 Ride Drive `2025`
+
+<img src="https://github.com/laube-developer/ride-share-project/blob/main/banner.png?raw=true" alt="Ride Drivee" height="400" style="border-radius: 10px;"/>
+
+- Andamento ![](https://geps.dev/progress/30)
+- Java
+- Orientação a Objetos `Next.js`
+- Software para gerenciar corridas entre `Motoristas` e `Passageiros`.
+- [github.com/laube-developer/ride-share-project](https://www.github.com/laube-developer/ride-share-project)
 
 
+### 🤖 Estacionamento DTCEA-BR `2025`
+<img src="/estacionamento.jpeg" alt="Estacionamento DTCEA-BR Sistema" width="400" style="border-radius: 10px;"/>
 
-- 🔭 I’m currently working on ...
+- Andamento ![](https://geps.dev/progress/80)
+- Sistema de agendamentos de vagas no estacionamento do DTCEA-BR (ao lado do aeroporto de Brasília).
+- Permite o cadastro de agendamentos e solicitações dos usuários.
+- Permite a visualização `topográfica` e também em `tabela`
+- Conteinerização com `Docker`
+- Tecnologias utilizadas
+   - **Laravel**
+   - **Livewire**
+   - **Filament**
+   - **Auditing**
+- Projeto interno
 
-- 🌱 I’m currently learning ...
+---
 
-- 👯 I’m looking to collaborate on ...
+### 🤖 CintIA - Converse com a Cintia `2025`
+<img src="/cintia.png" alt="Cintia" width="400" style="border-radius: 10px;"/>
 
-- 🤔 I’m looking for help with ...
+- Andamento ![](https://geps.dev/progress/100)
+- Chat intranet para solução de dúvidas internas no CINDACTA 1.
+- Permite o `cadastro de tópicos`, que alimentam o banco de conhecimento da IA.
+- `N8N` para o fluxo de IA e `Django/Python` para a interface.
+- Conteinerização com `Docker`.
+- Projeto interno
 
-- 💬 Ask me about ...
+---
 
-- 📫 How to reach me: ...
+### 🖼️ Banco de Imagens (Drive) `2024`
 
-- 😄 Pronouns: ...
+<img src="https://github.com/laube-developer/image-flow/blob/main/example_images/4_Home.png?raw=true" alt="Banco de Imagens" height="400" style="border-radius: 10px;"/>
 
-- ⚡ Fun fact: ...
+- Andamento ![](https://geps.dev/progress/90)
+- Drive de imagens pessoais `Next.js`
+- [github.com/laube-developer/image-flow](https://www.github.com/laube-developer/image-flow)
 
--->
+---
+
+### ✉️ Chat App `2024`
+<img src="https://raw.githubusercontent.com/laube-developer/chat-app/main/img/Tela%20de%20Cadastro.png" alt="Chat App" height="400" style="border-radius: 10px;"/>
+
+- Andamento ![](https://geps.dev/progress/70)
+- Mensageiro `Next.js`
+- **Firebase** e **Next.js**.
+- [github.com/laube-developer/chat-app](https://www.github.com/laube-developer/chat-app)
+
+---
+
+### 🏙️ Landing Page `2024`
+<img src="https://github.com/laube-developer/infoideias-selecao/raw/main/BANNER/Capa%201280x860.png" alt="Landing Page" height="400" style="border-radius: 10px;"/>
+
+- Andamento ![](https://geps.dev/progress/100)
+- Landing page criada no `Adobe Photoshop` e implementada em `HTML, SCSS e JavaScript`
+- Processo seletivo para uma oferta de vaga para Desenvolvedor Front-end Junior.
+- [github.com/laube-developer/infoideias-selecao](https://github.com/laube-developer/infoideias-selecao)
