@@ -3,7 +3,7 @@
 <br>
 <img src="/rafael.png" alt="Software Engineering Student" height="40"/>
 <br>
-<img src="/techs.png" alt="Habilidades 1" height="27"/>
+<img src="/Techs.png" alt="Habilidades 1" height="27"/>
 <br>
 <img src="/techs2.png" alt="Habilidades 2" height="27"/>
 <br>
